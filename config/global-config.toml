@@ -1,0 +1,24 @@
+# Alastria B network
+
+# Global configuration
+logging="INFO"
+
+permissions-accounts-contract-address="0x0000000000000000000000000000000000008888"
+permissions-accounts-contract-enabled=false
+permissions-nodes-contract-address="0x0000000000000000000000000000000000009999"
+permissions-nodes-contract-enabled=false
+
+# Local configuration
+data-path="/data/alastria-node-besu"
+node-private-key-file="/data/alastria-node-besu/keys/key"
+genesis-file="/data/alastria-node-besu/config/genesis.json"
+min-gas-price=0
+
+metrics-enabled=true
+metrics-host="0.0.0.0"
+metrics-port="9545"
+host-allowlist=["*"]
+
+rpc-http-enabled=true
+rpc-http-host="127.0.0.1"
+rpc-http-cors-origins=["*"]
