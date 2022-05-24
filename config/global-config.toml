@@ -20,5 +20,5 @@ metrics-port="9545"
 host-allowlist=["*"]
 
 rpc-http-enabled=true
-rpc-http-host="127.0.0.1"
+rpc-http-host="0.0.0.0"
 rpc-http-cors-origins=["*"]
