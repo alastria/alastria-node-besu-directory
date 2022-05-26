@@ -14,6 +14,12 @@ node-private-key-file="/data/alastria-node-besu/keys/key"
 genesis-file="/data/alastria-node-besu/config/genesis.json"
 min-gas-price=0
 
+permissions-nodes-config-file-enabled=true
+permissions-nodes-config-file="/data/alastria-node-besu/config/allowed-nodes.toml"
+
+discovery-enabled=false
+static-nodes-file="/data/alastria-node-besu/config/static-nodes.json"
+
 metrics-enabled=true
 metrics-host="0.0.0.0"
 metrics-port="9545"
