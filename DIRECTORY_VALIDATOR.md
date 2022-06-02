@@ -1,7 +1,7 @@
 # Directorio de nodos Core
 | Nombre                      | Hosting                  | Node Address  | Enode |
 | ---                         | ---                      | ---           | ---   |
-| VAL_PLANISYS                | -                        | 0x2d1d60dd4fdb77bc71cdeb62bade4a3606929ced | enode://156c78217b32d5042a404a115ae726cccceaeef931144a41844f3b53389818eeda005f5ca5be5cad1b3eed8c40f12469365f488df5e7cdce1f750a5d4da84a8e@185.180.8.164:30303 |
+| VAL_PLANISYS                | -                        | 0x2f58cd9f12f5eb2bbf856704ab3182bc33a0820e | enode://ebce9759f7a7d589c2a4bbab208d965c7fa047ff1e307c17de923eeb3471dbb739834b819c49a11858bee06de7d61e2c52c2932205fb778089e051fde458df69@185.180.8.164:30303 |
 | VAL_ALASTRIA_1              | AWS                      | 0x4b3cc96cc615ab4d46ac0bc8fff5cb4fa77cac92 | enode://e4e807fa72a8c9a137ca89e12fa95673c68b85a02d22627b0a8d8c6cc0709aa0efcb3be62c6a62ac7e5884c6d7909191990705038f833098cf8b0509faa88151@54.220.2.15:30303 |
 | VAL_ALASTRIA_2              | AWS                      | 0x283c714b9d58173e5f89c2f0d9476a92cf9ac9f4 | enode://51f5079420860f79f49645f63396b8c797882b5a0f29cd56075aecf131ef1b6a6128941a8c9e787f178cffb2ea60fbd5aa7fe884fa39e7892fcd4d0150eb1aab@54.155.199.65:30303 |
 | VAL_ALASTRIA_3              | AWS                      | 0x7303144c5f64cee173569f2b884a22fdae835155 | enode://20c1378ff3b8ce6e53b914a413f00e2590ee85491af529f976aef8cff96a649afff14262dee0273ed7a11ca2adc8a6f7918c0a42303a2e13cbea8a89961425ad@54.216.131.145:30303 |
