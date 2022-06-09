@@ -20,3 +20,4 @@
 | REG_CDM_4_4_00              | -                                         | enode://f9bfd4f89f4969a3ad7fe7d7052e0135f2f80681af343ffc1a599a99c46a82b82536fa0e39c3e08eeae715f77dee88777eeae5b574ffd653c8fdfeb0f1238569@52.47.79.5:30303      |
 | REG_Grant_Thornton          | -                                         | enode://f884e0a806880d73a236871be233f8e009d83f2b71503baf68f9402423228f8c1f70b5eddb74545cde0969413857004d78100e0a5e3d80ff0996fd10c2014e70@52.48.241.156:30303   |
 | REG_ProteccionDigital_B_2_8_00 | Amazon Web Services (2/8 GB/128 GB) | enode://2045f95b78776269e6bac37e353d1d9877e671d79a83eac419017d709930ac5b94d2e0c66acf94875169bf9cbd800457eca1208df0ab2120e30f30945253ab2b@54.171.101.63:30303 |
+| REG_SM-SERVICES_B_2_8_00 | Azure (2/8/500GB) | enode://4bcf993268701384107fb2a1d71d1d7c23385cd1410f90cbf114d37717f934a27dd0cf6dc6e484378689bd763006ce941d7e845bae6ab9290c376fbbea4c55ca@20.126.112.52:30303 |
