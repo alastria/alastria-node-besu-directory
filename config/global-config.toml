@@ -1,7 +1,7 @@
 # Alastria B network
 
 # Global configuration
-logging="INFO"
+logging="DEBUG"
 
 permissions-accounts-contract-address="0x0000000000000000000000000000000000008888"
 permissions-accounts-contract-enabled=false
