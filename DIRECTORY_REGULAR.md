@@ -1,7 +1,6 @@
 # Directorio de nodos Regulares
 | Nombre                      | Hosting                                   | Enode |
 | ---                         | ---                                       | ---   |
-| REG_AlastriaID              | AWS (2C/4Gb/32Gb)                         | enode://54906d5251f8d20a3639aed0b9f791ab7d476571c6ad47a7ec526cbb6df1d5a191a0a27b9749340d31d81401e285b704162940e02c126fb5d1fa8b8b9a377f7e@63.33.206.111:30303   |
 | REG_TruBlo_B_2_4_00         | AWS                                       | enode://6494c09be4653354333369a7010fed7c735742c20ce83fb9b0ca56238aa9e9dc71ce709667ed2b8e20cc5c91c88e82d91d7b86e493400a44319d729337dd4b6d@54.195.253.191:30303  |
 | REG_Asvin_001_011_001       | Self Hosted (2C/11Gb)                     | enode://65b567362f59c87a838b2ad35ffddf682fe9c2a7189a31f280bde0182d43a0f7c6e5cdf60c7824b43d4f9a2e4ecb0df10377f3356f7ddf67b3027cbab3219075@35.234.123.138:30303  |
 | REG_Asvin_002_011_001       | Self Hosted (2C/11Gb)                     | enode://bb21b4809bed352b257554256b46ad3b1e3a90b7babdaffab277002a876a642fb03f225096134a069c499b092ce6edb7206169541b8bdde1bfed6bb776b8334f@91.250.82.163:30303   |
