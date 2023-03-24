@@ -2,6 +2,9 @@
   "config": {
     "chainId": 2020,
     "constantinoplefixblock": 0,
+    "istanbulBlock": 33253347,
+    "muirglacierBlock": 33254547,
+    "berlinBlock": 33255747,
     "ibft2": {
       "blockperiodseconds": 1,
       "epochlength": 30000,
