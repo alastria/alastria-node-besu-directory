@@ -1,7 +1,6 @@
 # Directorio de nodos Regulares
 | Nombre                      | Hosting                                   | Enode |
 | ---                         | ---                                       | ---   |
-| REG_TruBlo_B_2_4_00         | AWS                                       | enode://6494c09be4653354333369a7010fed7c735742c20ce83fb9b0ca56238aa9e9dc71ce709667ed2b8e20cc5c91c88e82d91d7b86e493400a44319d729337dd4b6d@54.195.253.191:30303  |
 | REG_Asvin_001_011_001       | Self Hosted (2C/11Gb)                     | enode://65b567362f59c87a838b2ad35ffddf682fe9c2a7189a31f280bde0182d43a0f7c6e5cdf60c7824b43d4f9a2e4ecb0df10377f3356f7ddf67b3027cbab3219075@35.234.123.138:30303  |
 | REG_Asvin_002_011_001       | Self Hosted (2C/11Gb)                     | enode://bb21b4809bed352b257554256b46ad3b1e3a90b7babdaffab277002a876a642fb03f225096134a069c499b092ce6edb7206169541b8bdde1bfed6bb776b8334f@91.250.82.163:30303   |
 | REG_Asvin_004_016_001       | Self Hosted (2C/11Gb)                     | enode://84bd835d57c68f6e3654e649337205b251b630bae933c3544fa59848e59747f25dfaafea6ef9671e7c2394a93b73a41d07ceb1a4e3439eac9a42d34bbd2b9f63@34.107.93.74:30303    |
