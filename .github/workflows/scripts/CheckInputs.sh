@@ -10,7 +10,7 @@ fi
 # Check NAME
 case $TYPE in
 	"validator")
-		if [[ ! $NAME =~ ^VAL_[a-zA-Z0-9_-]+_B_[0-9][0-9]?_[0-9][0-9]?_[0-9][0-9]?$ ]]; then
+		if [[ ! $NAME =~ ^VAL_[a-zA-Z0-9_-]+_B_[0-9]{1,3}_[0-9]{1,3}_[0-9]{1,3}$ ]]; then
 			echo "ERROR: invalid input 'name'"
 			echo "ERROR: node name $NAME of type $TYPE doesn't match expression ^VAL_[a-zA-Z0-9_-]+_B_[0-9][0-9]?_[0-9][0-9]?_[0-9][0-9]?$"
 			exit 1
@@ -22,7 +22,7 @@ case $TYPE in
 		fi
 	;;
 	"regular")
-		if [[ ! $NAME =~ ^REG_[a-zA-Z0-9_-]+_B_[0-9][0-9]?_[0-9][0-9]?_[0-9][0-9]?$ ]]; then
+		if [[ ! $NAME =~ ^REG_[a-zA-Z0-9_-]+_B_[0-9]{1,3}_[0-9]{1,3}_[0-9]{1,3}$ ]]; then
 			echo "ERROR: invalid input 'name'"
 			echo "ERROR: node name $NAME of type $TYPE doesn't match expression ^REG_[a-zA-Z0-9_-]+_B_[0-9][0-9]?_[0-9][0-9]?_[0-9][0-9]?$"
 			exit 1
