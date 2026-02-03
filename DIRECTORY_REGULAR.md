@@ -15,7 +15,6 @@
 | REG_eCustoms                | -                                         | enode://924d67c546d3c009fb500f7f478138f54c05f0e3439b1edfd823acb886fa173a43640947e3e18feb8bca36abe28391a8c86f3bff99d3518c1a8814c08fde48b2@35.240.16.43:30303    |
 | REG_iCommunity              | -                                         | enode://4dd807ae01f1cff9f82cb454fe0c0deaa60ad5a8241d2031361ede6b141b42c95048b2a3ba2772d1f2404e9cf0f7a8cb128646c810fe7747ca3df73f75f8a47d@15.236.219.22:30303   |
 | REG_CDM_4_4_00              | -                                         | enode://f9bfd4f89f4969a3ad7fe7d7052e0135f2f80681af343ffc1a599a99c46a82b82536fa0e39c3e08eeae715f77dee88777eeae5b574ffd653c8fdfeb0f1238569@52.47.79.5:30303      |
-| REG_Grant_Thornton          | -                                         | enode://f884e0a806880d73a236871be233f8e009d83f2b71503baf68f9402423228f8c1f70b5eddb74545cde0969413857004d78100e0a5e3d80ff0996fd10c2014e70@52.48.241.156:30303   |
 | REG_SM-SERVICES_B_2_8_00 | Azure (2/8/500GB) | enode://d49da78ba1fb578fe4075a2ffb76a23d792876c543768f94a292b69c60bd995000db28ac350f572b02d9cdfe1ae32c350e1734889d1d0e2f892f896aa6ca04da@20.126.112.52:30303 |
 | REG_eprocessmed_B_6_16_01 | CONTABO (6/16G/350GB) | enode://84f964868779da65d02597ee67e1436086a7350ff6e5a86adf31f453abfb6c07941feb284ffaf9b1059041b4e5e325b08a0835e39dea87c7c762f9250e2bf65d@75.119.152.191:30303 |
 | REG_CYSAE_B_4_8_00 | AWS (4/8GB/200GB) | enode://c8258e828b16ce2127421b3d4c15b8b8777684f85e957f3d7256e1a06690f4858800021e17c8f04335384d419511d7f64dbc8828e5913d27a1c0dc3bc85236c2@54.216.118.18:30303 |
